@@ -1,0 +1,1 @@
+print('''hello world.replace('world','dasol')''','hello world'.replace('world','dasol'))
